@@ -5,5 +5,8 @@ module.exports = {
     "fucker"        : ["ˈfʌkər", "forka"],
     "fucking"       : ["ˈfʌkɪŋ", "forking"],
     "shit"          : ["ˈʃɪt", "sheet"],
+    "bitch"         : ["ˈbɪʧ",  "beach"],
+    "damn"          : ["ˈdæm",  "dam"],
+    "goddamn"       : ["ˈgɒd-dæm",  "gotdam"]
 };
 
